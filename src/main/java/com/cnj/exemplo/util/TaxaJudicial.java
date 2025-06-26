@@ -1,4 +1,4 @@
-package com.cnj.exemplo.main.util;
+package com.cnj.exemplo.util;
 
 import org.springframework.stereotype.Component;
 
